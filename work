@@ -1,1 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" class="mdl-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Bo Jiang&#39;s resume">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/static/favicon.png">
+<title>Yuwei Duan - Student in Economics</title>
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="theme-color" content="#3F51B5">
+
+<!--<base target="_blank">--><base href="." target="_blank">
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?dcaa5e9247b157dd9c1488970453900b";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script src="/static/material.js" integrity="sha256-V+3rIw6m5jMLxO3CaK7innX7ZZhQ9uDWLs0/sinzCNE=" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="//code.getmdl.io/1.3.0/material.teal-red.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="/static/index.css">
+
+<body>
+<div>
+
+<header class="mdl-color--teal-700 mdl-color-text--white mdl-shadow--4dp">
+    <section class="title mdl-color--teal-500">
+        <h1 class="mdl-typography--display-2">段雨玮</h1>
+	<p class="mdl-typography--body-1 no-print">欢迎！ 
+		&nbsp; <a href="/" style="color: white"><i class="mdi mdi-earth mdi-14px"></i>English Version</a> 
+	</p>
+	<div class="no-print" style="float: right;position: relative;left: 45px; top: -25px;">
+		<img src="/asset/avatar.jpg" style="width: 128px;height: 128px;border-radius: 50%;overflow: hidden;" class="mdl-shadow--4dp"></div>
+    </section>
+    <section class="about">
+        <i class="mdi mdi-account mdi-24px"></i>
+        <div>
+            <h2 class="mdl-typography--title">About</h2>
+            <p>Bocconi大学学生</p>
+        </div>
+    </section>
+    <section class="contact">
+        <i class="mdi mdi-phone mdi-24px"></i>
+        <div>
+            <h2 class="mdl-typography--title">Contact</h2>
+            <ul>
+                    <li>
+                        <i class="mdi mdi-email mdi-18px"></i>
+                        <a href="mailto:yuwei.duan@phd.unibocconi.it">duan.yuwei@outlook.com</a>
+                    </li>
+                    <li>
+                        <i class="mdi mdi-cellphone mdi-18px"></i>
+			<a href="#">+86 18810319297</a>
+                    </li>
+            </ul>
+        </div>
+    </section>
+    <section class="skills">
+        <i class="mdi mdi-lightbulb mdi-24px"></i>
+        <div>
+            <h2 class="mdl-typography--title">Interest</h2>
+	    <p>数据分析, 消费者行为分析, 市场研发, 行为经济学，环境经济学，公共选择</p>
+            <!--<ul>-->
+                <!--<li>-->
+                    <!--<p class="mdl-typography--caption mdl-typography--caption-color-contrast">xxx</p>-->
+                    <!--<p class="mdl-typography--body-1">xxx</p>-->
+                <!--</li>-->
+            <!--</ul>-->
+        </div>
+    </section>
+    <section class="skills">
+        <i class="mdi mdi-chart-bar mdi-24px"></i>
+        <div>
+            <h2 class="mdl-typography--title">Skills</h2>
+	    <!--<p>behavioural economics, political economics, criminology economics and public choice.</p>-->
+	    <ul>
+		<li>
+		    <p class="mdl-typography--caption mdl-typography--caption-color-contrast">Languages</p>
+		    <p class="mdl-typography--body-1">Mandarin Chinese: native speaker; English: TOEFL,101; GRE, 327</p>
+		</li>
+		<li>
+		    <p class="mdl-typography--caption mdl-typography--caption-color-contrast">Software</p>
+		    <p class="mdl-typography--body-1">Word, Excel, PPT, Latex: Excellent</p>
+		</li>
+		<li>
+		    <p class="mdl-typography--caption mdl-typography--caption-color-contrast">Programming</p>
+		    <p class="mdl-typography--body-1">STATA, MATLAB: Good</p>
+		</li>
+		<li>
+		    <p class="mdl-typography--caption mdl-typography--caption-color-contrast">Database</p>
+		    <p class="mdl-typography--body-1">Wind, CSMAR, CGSS, CIED</p>
+		</li>
+	    </ul>
+        </div>
+    </section>
+</header>
+<main class="mdl-color--blue-grey-50">
+    <section class="mdl-color--white mdl-shadow--2dp">
+        <h2 class="mdl-typography--display-1">教育经历</h2>
+	 <section>
+		<h3 class="mdl-typography--title mdl-typography--title mdl-color-text--teal-500"> Bocconi University，2019.9至今，意大利米兰</h3>
+		<p class="mdl-typography--subhead mdl-typography--subhead-color-contrast">Ph.D program in Economics and Finance</p>
+		<p class="mdl-typography--subhead mdl-typography--subhead-color-contrast">Mphil in Economics（已获得）</p>
+		<ul class="mdl-typography--subhead mdl-typography--subhead-color-contrast">
+		<li> 主要学习领域：微观经济学，宏观经济学，应用微观计量经济学。 </li>
+		</ul>
+        </section>
+        <section>
+		<h3 class="mdl-typography--title mdl-typography--title mdl-color-text--teal-500">中国社会科学院研究生院，2016.9-2019.6, 中国北京</h3>
+		<p class="mdl-typography--subhead mdl-typography--subhead-color-contrast">管理学硕士</p>
+		<ul class="mdl-typography--subhead mdl-typography--subhead-color-contrast">
+		<li> 主要学习领域：创新经济学，应用微观计量经济学，统计学，管理学。 </li>
+		</ul>
+        </section>
+        <section>
+            <h3 class="mdl-typography--title mdl-typography--title mdl-color-text--teal-500"> 西北大学，2012.9-2016.6，中国西安 </h3>
+		<p class="mdl-typography--subhead mdl-typography--subhead-color-contrast">经济学学士</p>
+		<ul class="mdl-typography--subhead mdl-typography--subhead-color-contrast">
+		<li> 主要学习领域：微观经济学，宏观经济学，统计学，政治经济学，应用微观计量经济学。 </li>
+            </ul>
+        </section>
+    </section>
+    <section class="mdl-color--white mdl-shadow--2dp">
+        <h2 class="mdl-typography--display-1">项目经历</h2>
+        <section>
+            <h3 class="mdl-typography--title mdl-typography--title mdl-color-text--teal-500"> 开放创新综合发展试验暨苏州工业园开放创新综合发展试验评估</h3>
+		<p class="mdl-typography--subhead mdl-typography--subhead-color-contrast">该课题受国家商务部委托，为国家级课题</p>
+		<p class="mdl-typography--body-1 mdl-typography--body-1-color-contrast">2017.5-2017.9, 中国北京-苏州</p>
+		<ul class="mdl-typography--subhead mdl-typography--subhead-color-contrast">
+		<li> 在苏州工业园进行3次实地调研，走访调研苏州工业园区相关企业，与苏州工业园区管委会及相关部门负责人开展座谈会和采访，并在相关会议上进行课题报告展示。</li>
+		<li> 参与设计及撰写评估报告，构建评估体系及评估指标。</li>
+		<li> 独立负责“科技金融体系”及“双向开放合作”两个子项目的评估任务，收集相关数据，政策，并进行案例分析，提出政策建议，形成2万字评估报告。</li>
+		<li> 与课题组其他6位成员协作完成5万字总报告。</li>
+		<li> 课题评估报告受到商务部及苏州工业园区管委会的高度赞扬，课题组所提多项政策建议，如加快构建科技金融体系，把苏州工业园打造成地方金融高地等，均被苏州工业园管委会采纳并实施。</li>
+            </ul>
+        </section>
+        <section>
+            <h3 class="mdl-typography--title mdl-typography--title mdl-color-text--teal-500">中国四大板块新动能及其实现路径和建议 </h3>
+		<p class="mdl-typography--subhead mdl-typography--subhead-color-contrast">该课题受国家高端智库办公室委托，为国家级课题</p>
+		<p class="mdl-typography--body-1 mdl-typography--body-1-color-contrast">2018.4-2018.8,中国北京</p>
+		<ul class="mdl-typography--subhead mdl-typography--subhead-color-contrast">
+		<li> 对中国四大区域的创新能力及潜力进行分析评估，形成2万字评估报告，并提出相应政策建议。</li>
+		<li> 设计及构建评估体系和评估指标。</li>
+		<li> 收集及整理四大区域创新政策，创新概念及相关数据，进行数据可视化分析，完成评估报告。</li>
+            </ul>
+        </section>
+        <section>
+            <h3 class="mdl-typography--title mdl-typography--title mdl-color-text--teal-500">微信公众号“香樟经济学学术圈”</h3>
+		<p class="mdl-typography--body-1 mdl-typography--body-1-color-contrast">2018.1至今</p>
+		<ul class="mdl-typography--subhead mdl-typography--subhead-color-contrast">
+		<li> 运营及长期内容作者。</li>
+		<li> 撰写经济学顶级期刊论文简述及点评文章，所写文章阅读量均在3000以上。</li>
+		<li> 期间公众号粉丝量从 8,000 增长到20,000.</li>
+            </ul>
+        </section>
+        </section>
+	<section class="mdl-color--white mdl-shadow--2dp">
+        <h2 class="mdl-typography--display-1">研究与发表</h2>
+        <section>
+            <ul class="mdl-typography--subhead mdl-typography--subhead-color-contrast">
+		<li>
+			The Effect of Broadband Internet on Divorce in China,
+			with Shilin Zheng and Michael R. Ward.
+			<i>Technological Forecasting & Social Change, 2019, 139, pp.99-114. </i>
+			<p> <a style="color: gray" href="https://doi.org/10.1016/j.techfore.2018.07.038">
+				doi.org/10.1016/j.techfore.2018.07.038</a> </p>
+		</li>
+		<li>中国转型时期的食品安全治理——基于行为经济学的分析。合作者刘瑞明，黄维乔。《中国工业经济》（中国经济学5大期刊之一）,2017年第1期, 第98-116页。</i>
+			<p> <a style="color: gray" href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=GGYY201701007&v=MDc0NjZZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYnVabUZ5bmhVYnZMSWlyU2Q3RzRIOWJNcm85Rlk0UjhlWDFMdXg=">
+				 中国知网链接</a></p>
+		</li>
+		<li>工作论文：税收加计扣除政策与企业创新：来自中国的证据</i>
+		</li>
+            </ul>
+            <p class="mdl-typography--body-1 mdl-typography--body-1-color-contrast">
+	    
+            </p>
+        </section>
+    </section>
+</main>
+</div>
+<a href="/asset/cv_cn_1.pdf" title="Download PDF" class="no-print mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored" data-upgraded=",MaterialButton,MaterialRipple">
+    <i class="mdi mdi-download mdi-24px"></i>
+    <span class="mdl-button__ripple-container">
+	    <span class="no-print mdl-ripple"></span>
+    </span>
+</a>
+<a href="#" onclick="window.print();return false;" title="Print" style="margin-bottom: 70px" class="no-print mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored" data-upgraded=",MaterialButton,MaterialRipple">
+    <i class="mdi mdi-printer mdi-24px"></i>
+    <span class="mdl-button__ripple-container">
+	    <span class="no-print mdl-ripple"></span>
+    </span>
+</a>
+<footer>
+</footer>
+
 
